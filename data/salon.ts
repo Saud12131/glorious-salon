@@ -9,7 +9,7 @@ export const salonData = {
     state: "Gujarat, 380060",
   },
   phone: "9925367033",
-  email: "Harshadsitapara.hs@gmail.com",
+  email: "harshadsitapara.hs@gmail.com",
   udyam: "UDYAM-GJ-01-0448710",
   businessHours: {
     mondayToSunday: "10:30 AM - 08:00 PM",
